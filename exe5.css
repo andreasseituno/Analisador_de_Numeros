@@ -1,0 +1,27 @@
+body {
+  background-color: lightseagreen;
+}
+
+header,
+footer {
+  color: whitesmoke;
+  text-align: center;
+}
+
+section {
+  margin: auto;
+  background-color: white;
+  width: 500px;
+  border-radius: 5%;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.308);
+  box-shadow: 10px 10px rgba(0, 0, 0, 0.226);
+}
+
+select {
+  width: 200px;
+}
+
+div {
+  padding: 10px;
+}
